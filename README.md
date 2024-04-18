@@ -8,5 +8,9 @@
 
 使用YOLO进行训练
 
+读取 `.mhd` 格式的数据，该文件保存了CT图像的 `.raw` 文件的信息
+
+使用 Python 的 `SimpleITK` 进行读取
+
 
 
