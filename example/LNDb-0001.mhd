@@ -1,0 +1,13 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = False
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = -158.1962890625 -309.1962890625 -297.5
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSpacing = 0.607421875 0.607421875 1
+DimSize = 512 512 328
+ElementType = MET_SHORT
+ElementDataFile = LNDb-0001.raw
